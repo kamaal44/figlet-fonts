@@ -296,6 +296,10 @@ echo -e "USAGE"
 echo -e "-----"
 echo -e "figlet -f 'FontName' YourText"
 echo -e ""
+echo -e "EXAMPLE"
+echo -e "-------"
+echo -e "fIglet -f 'Graffiti' YourText"
+echo -e ""
 exit
 }
 
