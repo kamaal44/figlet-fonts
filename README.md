@@ -1,8 +1,15 @@
 # Figlet-fonts
 Installing font for figlet packages
-
+````
+___________.___  ________.____     ______________________
+\_   _____/|   |/  _____/|    |    \_   _____/\__    ___/
+ |    __)  |   /   \  ___|    |     |    __)_   |    |   
+ |     \   |   \    \_\  \    |___  |        \  |    |   
+ \___  /   |___|\______  /_______ \/_______  /  |____|   
+     \/                \/        \/        \/       
+          CUSTOM FIGLET FONTS FOR YOU'RE TERMINAL
+````
 <p align="center">
-<img src="img/carbon.png">
   <a href="">
     <img src="https://img.shields.io/badge/language-bash-blue.svg">
  </a>
