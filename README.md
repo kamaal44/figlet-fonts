@@ -2,6 +2,7 @@
 Installing font for figlet packages
 
 <p align="center">
+<img src="img/carbon.png">
   <a href="">
     <img src="https://img.shields.io/badge/language-bash-blue.svg">
  </a>
