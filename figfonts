@@ -295,7 +295,6 @@ echo -e ""
 echo -e "USAGE"
 echo -e "-----"
 echo -e "figlet -f 'FontName' YourText"
-echo -e "toilet -f 'FontName' YourText"
 echo -e ""
 exit
 }
